@@ -2,24 +2,24 @@
 
 curl на локалке:
 
-![curl на локалке](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task3-4.png)
+![curl на локалке](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task3-4.png)
 
 Ответ на SQL-запрос:
 
-![Ответ на SQL-запрос:](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task3-5.png)
+![Ответ на SQL-запрос:](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task3-5.png)
 
 
 Облачная ВМ:
 
-![Облачная ВМ](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task4-2.png)
+![Облачная ВМ](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task4-2.png)
 
 Проверка облачной ВМ с помощью сервиса:
 
-![Проверка сервсисом](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task4-1.png)
+![Проверка сервсисом](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task4-1.png)
 
 Ответ на SQL-запрос:
 
-![Ответ на SQL-запрос](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task4-3.png)
+![Ответ на SQL-запрос](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task4-3.png)
 
 Ссылка на репозиторий:
 
@@ -37,24 +37,22 @@ docker compose up
 
 Просмотр слоёв с помощью Dive:
 
-![Dive](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task6-1-1.png)
+![Dive](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task6-1-1.png)
 
 Сохранение образа в архив:
 
-![Образ в архив](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task6-1-2.png)
+![Образ в архив](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task6-1-2.png)
 
 Извлечение содержимого образа из архива:
 
-![Из архива](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task6-1-3.png)
+![Из архива](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task6-1-3.png)
 
 Извлечение из слоя:
 
-![Из слоя](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task6-1-4.png)
+![Из слоя](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task6-1-4.png)
 
 Извлечение с помощью docker cp:
 
-![docker cp](https://github.com/Lex-Chaos/docker-practice-hw/blob/main/img/Task6-1-5.png)
-
-[НАЗВАНИЕ ССЫЛКИ НА ФАЙЛ](https://github.com/Lex-Chaos/НАЗВАНИЕ_РЕПОЗИТОРИЯ/blob/main/files/НАЗВАНИЕ_ФАЙЛА)
+![docker cp](https://github.com/Lex-Chaos/docker-practice-hw/blob/master/img/Task6-1-5.png)
 
 ---
